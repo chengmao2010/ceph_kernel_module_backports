@@ -4,7 +4,7 @@ Backport ceph kernel modules from higher kernel version to 3.10.x
 Directory Introduction
 ----------------------
 
-kernel_src contains the relative path of ceph kernel modules source file against original 3.10.x kernel source tree.
+kernel_src directory contains the relative path of ceph kernel modules source files against original 3.10.x kernel source tree.
 
 ChangeLog
 ---------
